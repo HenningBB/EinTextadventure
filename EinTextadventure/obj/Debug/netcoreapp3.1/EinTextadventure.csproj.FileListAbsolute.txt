@@ -1,0 +1,11 @@
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\bin\Debug\netcoreapp3.1\EinTextadventure.exe
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\bin\Debug\netcoreapp3.1\EinTextadventure.deps.json
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\bin\Debug\netcoreapp3.1\EinTextadventure.runtimeconfig.json
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\bin\Debug\netcoreapp3.1\EinTextadventure.runtimeconfig.dev.json
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\bin\Debug\netcoreapp3.1\EinTextadventure.dll
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\bin\Debug\netcoreapp3.1\EinTextadventure.pdb
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\obj\Debug\netcoreapp3.1\EinTextadventure.csprojAssemblyReference.cache
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\obj\Debug\netcoreapp3.1\EinTextadventure.AssemblyInfoInputs.cache
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\obj\Debug\netcoreapp3.1\EinTextadventure.AssemblyInfo.cs
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\obj\Debug\netcoreapp3.1\EinTextadventure.dll
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\obj\Debug\netcoreapp3.1\EinTextadventure.pdb
