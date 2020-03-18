@@ -9,7 +9,9 @@ namespace EinTextadventure
         {
             Ereignisse ereignisse = new Ereignisse();
             ereignisse.start();
-            ereignisse.punkt1();         
+            ereignisse.EntscheidungsPunktEins();
+            ereignisse.EntscheidungsPunktZwei();
+            ereignisse.EntscheidungsPunktDrei();
             Console.ReadLine();
         }
     }

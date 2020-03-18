@@ -7,6 +7,7 @@ namespace EinTextadventure
     public class Ereignisse
     {
         string weg;
+        string gabelung;
         public Ereignisse()
         {
         }
@@ -20,7 +21,7 @@ namespace EinTextadventure
            
         }
 
-        public void punkt1()
+        public void EntscheidungsPunktEins()
         {
             
             Console.WriteLine("Den langen Weg(1) oder den kurzen Weg(2)[Bitte gebe die Zahl des gewählten Weges ein!]");
@@ -29,18 +30,44 @@ namespace EinTextadventure
             switch (weg)
             {
                 case "1":
-                    //weg 1
+                    //langer Weg
                     Console.WriteLine("Langer Weg");
                     break;
                 case "2":
-                    //weg 2
+                    //kurzer Weg
                     Console.WriteLine("Kurzer Weg");
                     break;
                 default:
                     Console.WriteLine("Falsche Eingabe!");
-                    punkt1();
+                    EntscheidungsPunktEins();
                     break;
             }
+        }
+
+        public void EntscheidungsPunktZwei()
+        {
+            Console.WriteLine("Du gehst den Weg entlang.");
+            Console.WriteLine("Ab und zu blendet dich die Sonne, wenn sie nicht durch die Baumwipfel geblockt wird.");
+            Console.WriteLine("In der Ferne zwitschern die Vögel.");
+            if(weg=="1") //langer Weg
+            {
+                Console.WriteLine("Auf einmal steht ein Hund vor dir.");
+                Console.WriteLine("Er schaut dich an und wackelt mit seinem Schweif");
+                Console.WriteLine("Bevor du reagieren kannst rennt er in den Wald");
+                Console.WriteLine("Du siehst wie er kurz nach den ersten Bäumen nicht mehr zu sehen ist.");
+                Console.WriteLine("Bei näherer Betrachtung scheint er wie vom Erdboden verschluckt.");
+                Console.WriteLine("Schaust du nun nach wo er abgebllieben ist[1] oder gehst du weiter spazieren[2]?.");
+                gabelung = Console.ReadKey().KeyChar.ToString();
+            }
+            else//kurzer Weg
+            {
+
+            }
+        }
+
+        public void EntscheidungsPunktDrei()
+        {
+
         }
     }
 }
