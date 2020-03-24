@@ -6052,7 +6052,8 @@
 								"$ref": "AAAAAAFw9xP/2M15Jpk="
 							}
 						}
-					]
+					],
+					"documentation": "Beginn des Spazierganges\nEntscheidung: langer oder kurzer Weg"
 				},
 				{
 					"_type": "UMLClass",
@@ -6187,7 +6188,8 @@
 								"$ref": "AAAAAAFw9xP/2M15Jpk="
 							}
 						}
-					]
+					],
+					"documentation": "langer weg\n\nEntscheidung:\nHund folgen oder nicht"
 				},
 				{
 					"_type": "UMLClass",
@@ -6349,7 +6351,8 @@
 								"$ref": "AAAAAAFw9xP/2M15Jpk="
 							}
 						}
-					]
+					],
+					"documentation": "kurzer weg\n\nEntscheidung: umsehen-> hund folgen oder nicht\noder\neinfach nur zu ende Spazieren gehen"
 				},
 				{
 					"_type": "UMLClass",
@@ -6411,7 +6414,8 @@
 								"aggregation": "composite"
 							}
 						}
-					]
+					],
+					"documentation": "den kurzen Weg beenden"
 				},
 				{
 					"_type": "UMLClass",
@@ -6449,7 +6453,8 @@
 								"aggregation": "composite"
 							}
 						}
-					]
+					],
+					"documentation": "Hund gefolgt"
 				},
 				{
 					"_type": "UMLClass",
@@ -6487,7 +6492,8 @@
 								"aggregation": "composite"
 							}
 						}
-					]
+					],
+					"documentation": "den langen Weg beenden"
 				},
 				{
 					"_type": "UMLClass",
@@ -7346,7 +7352,7 @@
 									"containerExtending": true,
 									"left": 212,
 									"top": 112,
-									"width": 84.68359375,
+									"width": 84,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIVMGL1bo="
@@ -12146,7 +12152,7 @@
 									"containerExtending": true,
 									"left": 556,
 									"top": 540,
-									"width": 102.6484375,
+									"width": 102,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIW8J0mNQ="
@@ -12453,7 +12459,7 @@
 									"containerExtending": true,
 									"left": 720,
 									"top": 592,
-									"width": 98.67578125,
+									"width": 98,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIW8KF/Zs="
@@ -13795,7 +13801,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 644,
-									"width": 79.380859375,
+									"width": 71.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIXMLHP9w="
@@ -13981,7 +13987,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 708,
-									"width": 79.380859375,
+									"width": 71.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIXcLRLl0="
@@ -14167,7 +14173,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 764,
-									"width": 79.380859375,
+									"width": 71.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIXcLbGc4="
@@ -14353,7 +14359,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 820,
-									"width": 92.013671875,
+									"width": 82.685546875,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIXcLlJaI="
@@ -14539,7 +14545,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 876,
-									"width": 79.380859375,
+									"width": 71.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIXcLvwPc="
@@ -15417,7 +15423,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 24,
-									"width": 79.380859375,
+									"width": 71.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIXsMXWbo="
@@ -15465,7 +15471,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 60,
-									"width": 120.396484375,
+									"width": 112.427734375,
 									"height": 22
 								},
 								{
@@ -15620,7 +15626,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 96,
-									"width": 79.380859375,
+									"width": 71.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIXsMie5U="
@@ -15806,7 +15812,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 148,
-									"width": 79.380859375,
+									"width": 71.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIXsMszLo="
@@ -16572,7 +16578,7 @@
 									"containerExtending": true,
 									"left": 724,
 									"top": 888,
-									"width": 85.345703125,
+									"width": 85,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFw9xHIX8NSzwg="
