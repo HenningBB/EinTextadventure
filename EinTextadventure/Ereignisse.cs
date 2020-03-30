@@ -14,10 +14,6 @@ namespace EinTextadventure
 
         public void start()
         {
-            Console.WriteLine("Herzlich Willkommen zum Wald-Spaziergang!");
-            Console.WriteLine("Vor sich sehen sie zwei Wege.");
-            Console.WriteLine("Das Schild das an der Abzweigung steht besagt das einer länger als der andere ist.");
-            Console.WriteLine("Wähle nun den Weg den du gehen willst:");
             EntscheidungsPunktEins();
             Console.WriteLine("Du gehst den Weg entlang.");
             Console.WriteLine("Ab und zu blendet dich die Sonne, wenn sie nicht durch die Baumwipfel geblockt wird.");

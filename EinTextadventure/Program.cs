@@ -7,11 +7,14 @@ namespace EinTextadventure
 
         static void Main(string[] args)
         {
-            Ereignisse ereignisse = new Ereignisse();
-            ereignisse.start();
-            ereignisse.Laufen();
-            //ereignisse.EntscheidungsPunktDrei();
-            Console.ReadLine();
+            Erzaehler erzaehler = new Erzaehler();
+            bool enden = false;
+            while (!enden)
+            {
+                Console.Write(erzaehler.spieleSzene()+"\n");
+                erzaehler.ladeErgebnis(Convert.ToInt32(Console.ReadKey().KeyChar.ToString()));
+                enden = true;
+            }
         }
     }
 }
