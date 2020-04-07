@@ -9,3 +9,5 @@ C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\obj\Debug\netcorea
 C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\obj\Debug\netcoreapp3.1\EinTextadventure.AssemblyInfo.cs
 C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\obj\Debug\netcoreapp3.1\EinTextadventure.dll
 C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\obj\Debug\netcoreapp3.1\EinTextadventure.pdb
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\obj\Debug\netcoreapp3.1\EinTextadventure.csproj.CoreCompileInputs.cache
+C:\Users\hkb-b\source\repos\EinTextadventure\EinTextadventure\obj\Debug\netcoreapp3.1\EinTextadventure.genruntimeconfig.cache
